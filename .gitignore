@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 # production folder - will be deployed on github pages
-#/dist
+/dist
 
 # local env files
 .env.local
